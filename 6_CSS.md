@@ -357,6 +357,3 @@ Both naturally support responsiveness.
 ---
 
 ✅ CSS is the **design layer of the web**. Mastering it lets you build **beautiful, responsive, and professional-looking websites**.
-
-
-👉 Max, since you already know **HTML & Tailwind basics**, do you want me to make a **step-by-step CSS roadmap** (from beginner → advanced → Tailwind/SCSS → animations & performance)? That way you can systematically master it.
